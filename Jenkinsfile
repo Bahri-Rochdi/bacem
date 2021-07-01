@@ -8,7 +8,7 @@ pipeline {
         stage ('Compile Stage') {
 
             steps {
-                    bat """ cd /d "${C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\test\CPbackEnd}" """
+                    bat """ cd /d "${C://Windows//System32//config//systemprofile//AppData//Local//Jenkins//.jenkins//workspace//test//CPbackEnd}" """
                     bat "mvn clean compile"
 
             }
@@ -17,7 +17,7 @@ pipeline {
         stage ('Testing Stage') {
 
             steps {
-                    bat """ cd /d "${C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\test\CPbackEnd}" """
+                    bat """ cd /d "${C://Windows//System32//config//systemprofile//AppData//Local//Jenkins//.jenkins//workspace//test//CPbackEnd}" """
                     bat "mvn test"
 
             }
