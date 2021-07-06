@@ -1,0 +1,12 @@
+com\oga\produit\contoleur\ProduitControleur.class
+com\oga\produit\SimpleCORSFilter.class
+com\oga\produit\repositories\CategoryRepository.class
+com\oga\produit\contoleur\CategoryControleur.class
+com\oga\produit\services\ProduitService.class
+com\oga\produit\services\CategoryService.class
+com\oga\produit\services\impl\ProduitServiceImpl.class
+com\oga\produit\repositories\ProduitRepository.class
+com\oga\produit\entities\Produit.class
+com\oga\produit\ProduitApplication.class
+com\oga\produit\entities\Categorie.class
+com\oga\produit\services\impl\CategoryServiceImpl.class

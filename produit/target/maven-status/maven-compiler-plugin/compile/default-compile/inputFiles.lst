@@ -1,0 +1,12 @@
+D:\Stage-été\rochdi\produit\src\main\java\com\oga\produit\entities\Produit.java
+D:\Stage-été\rochdi\produit\src\main\java\com\oga\produit\services\CategoryService.java
+D:\Stage-été\rochdi\produit\src\main\java\com\oga\produit\services\impl\CategoryServiceImpl.java
+D:\Stage-été\rochdi\produit\src\main\java\com\oga\produit\repositories\ProduitRepository.java
+D:\Stage-été\rochdi\produit\src\main\java\com\oga\produit\ProduitApplication.java
+D:\Stage-été\rochdi\produit\src\main\java\com\oga\produit\services\ProduitService.java
+D:\Stage-été\rochdi\produit\src\main\java\com\oga\produit\contoleur\ProduitControleur.java
+D:\Stage-été\rochdi\produit\src\main\java\com\oga\produit\entities\Categorie.java
+D:\Stage-été\rochdi\produit\src\main\java\com\oga\produit\contoleur\CategoryControleur.java
+D:\Stage-été\rochdi\produit\src\main\java\com\oga\produit\repositories\CategoryRepository.java
+D:\Stage-été\rochdi\produit\src\main\java\com\oga\produit\services\impl\ProduitServiceImpl.java
+D:\Stage-été\rochdi\produit\src\main\java\com\oga\produit\SimpleCORSFilter.java
